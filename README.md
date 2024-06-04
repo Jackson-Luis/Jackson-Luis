@@ -6,9 +6,9 @@ Desenvolvedor Fullstack com mais de 3 anos de experiência em programação e de
 
 - **Linguagens e Tecnologias:**
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap)
-  - **Frameworks:** ![Vue.js](https://img.shields.io/badge/-Vue.js-000?style=flat&logo=vue.js) ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
-  - **Back-End:** ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
-  - **Bancos de Dados:** ![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
+  - ![Vue.js](https://img.shields.io/badge/-Vue.js-000?style=flat&logo=vue.js) ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
+  - ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
+  - ![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
 
 - **Outras Habilidades:**
   - Inglês intermediário
