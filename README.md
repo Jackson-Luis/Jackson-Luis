@@ -32,7 +32,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento, esp
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackson-Luis&locale=pt-br&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/SeuPerfilAqui/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson-Luis&langs_count=8" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson-Luis&langs_count=8&locale=pt-br" alt="Top Langs" />
 </a>
 <!--
 **Jackson-Luis/Jackson-Luis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
