@@ -1,6 +1,6 @@
 # Olá, eu sou o Jackson Luis! 👋
 
-Desenvolvedor Fullstack com mais de 3 anos de experiência em programação e desenvolvimento de banco de dados para projetos web. Tenho facilidade em aprender novas tecnologias e ferramentas, o que me permite adaptar rapidamente a diferentes ambientes de desenvolvimento.
+Desenvolvedor Fullstack com mais de 3 anos de experiência em programação e desenvolvimento para projetos web. Tenho facilidade em aprender novas tecnologias e ferramentas, o que me permite adaptar rapidamente a diferentes ambientes de desenvolvimento.
 
 ## Habilidades 🚀
 
